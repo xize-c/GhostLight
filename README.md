@@ -39,7 +39,7 @@ Simulation on BloodMNIST blood-cell microscopy images (28×28, inverted to look 
 | Random patterns, to match DMGI | 1,827 | ~0.66 |
 
 - **29× fewer exposures and 28× less light** than random patterns with the same reconstruction algorithm.
-- Classic ghost imaging (DGI / GI) needs roughly 60× / 150× more exposures to reach the same quality.
+- Classic ghost imaging needs about 64× (DGI) to 151× (GI) more exposures.
 
 ![Animation](results/demo.gif)
 
